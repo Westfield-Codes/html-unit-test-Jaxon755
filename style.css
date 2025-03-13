@@ -4,6 +4,7 @@ body {
 
 th {
   vertical-align:top;
+  background-color: #A4C2F4;
 }
 
 td {
@@ -18,7 +19,8 @@ th {
 ul {
    margin:0;
 }
-#NFL Defenses{
+#NFL{
   margin:auto;
   width:1200px;
 }
+
